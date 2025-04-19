@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1730825180 source:/home/noor-masrur/Templates/login/main.c
+	<stdio.h>
+	<stdlib.h>
+	"login.h"
+
+1730825453 source:/home/noor-masrur/Templates/login/login.c
+	<string.h>
+	<stdio.h>
+	"login.h"
+
+1730825440 /home/noor-masrur/Templates/login/login.h
+
+1730825333 source:/home/noor-masrur/Templates/login/sendmoney.c
+	"sendmoney.h"
+
+1730825286 /home/noor-masrur/Templates/login/sendmoney.h
+
