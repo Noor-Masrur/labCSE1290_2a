@@ -13,7 +13,7 @@ int main()
         while(1)
         {
 
-            printf("=====================Menu=====================\n");
+            
             printf("Option 1 : Send Money\n");
             printf("Option 2 : Cash In\n");
             printf("Option 3 : Cash Out\n");
